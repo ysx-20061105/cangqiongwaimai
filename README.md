@@ -37,8 +37,8 @@
 本项目以后端为主
 可以学到如下知识点：
 
-1. JWT登陆
-2. Redis缓存
+1. JWT 登陆
+2. Redis 缓存
 3. Spring Aop
 4. Spring Data Redis
 5. Spring Cache 缓存
